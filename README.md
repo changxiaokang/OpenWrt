@@ -82,31 +82,35 @@ https://github.com/openwrt/openwrt
 
 ## 规则整理
 
-AppleAll.list
-BaHaMuTe.list
-BilibiliHMT.list
-DisneyPlus.list
-Emby.list
-GangTaiMeiTI_2.list
-GuoNeiWangZhan.list
-GuoWaiMeiTi_2.list
-GuoWaiWangZhan.list
-HBO MAX.list
-HBO.list
-IqiyiHMT.list
-LiaoTianRuanJian.list
-NETFLIX.list
-PrimeVideo.list
-PrivateTracker.list
-QuanQiuLanJie.list
-RiHanMeiTi.list
-Spotify.list
-TikTok.list
-WeiRuanFuWu.list
-YingYongLanJie.list
-YOUTUBE.list
-YouXiPingTai.list
+* AppleAll.list
+* BaHaMuTe.list
+* BilibiliHMT.list
+* DisneyPlus.list
+* Emby.list
+* GangTaiMeiTI_2.list
+* GuoNeiWangZhan.list
+* GuoWaiMeiTi_2.list
+* GuoWaiWangZhan.list
+* HBO MAX.list
+* HBO.list
+* IqiyiHMT.list
+* LiaoTianRuanJian.list
+* NETFLIX.list
+* PrimeVideo.list
+* PrivateTracker.list
+* QuanQiuLanJie.list
+* RiHanMeiTi.list
+* Spotify.list
+* TikTok.list
+* WeiRuanFuWu.list
+* YingYongLanJie.list
+* YOUTUBE.list
+* YouXiPingTai.list
+
+#### 我的订阅转换模板
+
+* https://raw.githubusercontent.com/changxiaokang/OpenWrt/main/ProxyGroups/rule/Area_Media_NoAutoPlus.ini
 
 #### 参考资料
 
-https://github.com/ACL4SSR/ACL4SSR/tree/master
+* https://github.com/ACL4SSR/ACL4SSR/tree/master
