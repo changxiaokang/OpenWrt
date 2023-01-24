@@ -14,7 +14,7 @@
 美国|US|United States
 
 ### 狮城节点
-新加坡|SG|Singapore
+狮城|新加坡|SG|Singapore
 
 ### 亚洲国家
 印度|越南|泰国|缅甸|迪拜|柬埔寨|菲律宾|土耳其|乌兹别克斯坦
