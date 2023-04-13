@@ -1,5 +1,17 @@
+## 我的模板
+* https://raw.githubusercontent.com/changxiaokang/OpenWrt/main/ProxyGroups/rule/Area_Media_NoAutoPlus.ini
+
+
+
+## 参考资料
+
+* https://github.com/ACL4SSR/ACL4SSR/tree/master
+
+
+
 ## 节点分类
 
+```ini
 custom_proxy_group=🇭🇰 香港节点`url-test`(香港|HK|Hong Kong|Hongkong)`http://www.gstatic.com/generate_204`300,,100
 custom_proxy_group=🇨🇳 台湾节点`url-test`(台湾|TW|Taiwan)`http://www.gstatic.com/generate_204`300,,100
 custom_proxy_group=🇰🇷 韩国节点`url-test`(韩国|KR|Korea|KOR)`http://www.gstatic.com/generate_204`300,,100
@@ -10,11 +22,13 @@ custom_proxy_group=🇪🇺 欧洲国家`select`(英国|UK|法国|FR|德国|DE|�
 custom_proxy_group=🇦🇺 大洋洲国家`select`(澳大利亚|AU|新西兰|NZ)
 custom_proxy_group=🌍 亚洲国家`select`(越南|VN|印度|IN|泰国|TH|缅甸|MM|迪拜|AE|柬埔寨|KH|菲律宾|PH|土耳其|TR|乌兹别克斯坦|UZ)
 custom_proxy_group=🌍 美洲国家`select`(智利|CL|巴西|BR|阿根廷|AR|墨西哥|MX|哥伦比亚|CO|玻利维亚|BO|委内瑞拉|VE)
+```
 
 
 
 ## 规则整理
 
+```ini
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
@@ -47,13 +61,5 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ;ruleset=🎯 全球直连,[]GEOIP,LAN
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
+```
 
-
-
-#### 我的转换模板
-
-* https://raw.githubusercontent.com/changxiaokang/OpenWrt/main/ProxyGroups/rule/Area_Media_NoAutoPlus.ini
-
-#### 参考资料
-
-* https://github.com/ACL4SSR/ACL4SSR/tree/master
