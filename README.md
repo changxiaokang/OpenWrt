@@ -34,8 +34,6 @@ https://github.com/openwrt/openwrt
 
 ## 分流规则
 
-
-
 ### 我的模板
 
 * https://raw.githubusercontent.com/changxiaokang/OpenWrt/main/ProxyGroups/rule/Area_Media_NoAutoPlus.ini
