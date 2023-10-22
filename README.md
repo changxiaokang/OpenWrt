@@ -1,4 +1,4 @@
-## OpenWrt下载
+## 固件下载
 
 ### 官方原版
 
@@ -25,6 +25,47 @@
 * jinjin https://www.right.com.cn/forum/thread-4051663-1-1.html
 * xuanwumen https://www.right.com.cn/forum/thread-4091453-1-1.html
 * zgxwc https://www.right.com.cn/forum/thread-3705778-1-1.html
+
+
+
+
+
+## 订阅转换
+
+### 在线转换
+
+> 一定程度存在订阅泄露 或者访问不稳定情况
+
+| 作者          | 介绍                            | 地址                           |
+| ------------- | ------------------------------- | ------------------------------ |
+| 友善的肥羊    | Subconverter 订阅转换前端增强版 | https://suburl.v1.mk/          |
+| 品云订阅转换  | 品云官方订阅转换工具            | https://id9.cc/                |
+| ACL4SSR       | 知名的规则转换网站              | https://acl4ssr-sub.github.io/ |
+| Next Convert  | Nexitally 奶昔机场官方订阅转换  | https://nexconvert.com/        |
+| immconvert    | ImmTelecom 机场官网订阅转换工具 | https://immconvert.com/        |
+| つつの · 鲸歌 | TAG 机场官方合作工具            | https://sub.tsutsu.one/        |
+
+
+
+### 本地转换
+
+> 在线订阅存在泄露和访问不稳定问题 建议自己搭建本地订阅转换
+
+**本地电脑搭建**
+
+https://github.com/tindy2013/subconverter
+
+
+
+**Docker服务搭建**
+
+https://hub.docker.com/r/tindy2013/subconverter
+
+
+
+**IOS设备搭建**
+
+https://github.com/sub-store-org/Sub-Store
 
 
 
@@ -103,7 +144,6 @@ ruleset=🚩 国内直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🚩 国内直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
 ruleset=🚩 国内直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🚩 国内直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
-ruleset=🚩 国内直连,GEOIP,CN
 
 # 广告拦截
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
@@ -115,9 +155,7 @@ ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 
 
 
-
-
-## 参考资料
+### 参考资料
 
 > 非常感谢ACL4SSR大佬的无私奉献
 
