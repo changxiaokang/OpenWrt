@@ -75,7 +75,7 @@ https://github.com/sub-store-org/Sub-Store
 
 ### 我的模板
 
-* https://raw.githubusercontent.com/changxiaokang/OpenWrt/main/ProxyGroups/rule.ini
+* https://raw.githubusercontent.com/cxk4ng/OpenWrt/main/ProxyGroups/rule.ini
 
 
 
